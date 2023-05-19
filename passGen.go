@@ -8,6 +8,7 @@ import (
 	"time"
 )
 
+// Trying out git
 func main() {
 
 	rand.Seed(time.Now().UnixNano())
